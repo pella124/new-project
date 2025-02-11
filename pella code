@@ -1,0 +1,10 @@
+start
+pin <1234>
+count=0
+enter Ypin
+count=count+1
+is count= 3,them step 10 else step 7
+is Ypin =pin?
+if yes, then step 9.else step 4
+prceed with transaction
+end
